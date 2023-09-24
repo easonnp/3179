@@ -155,6 +155,7 @@ Botswana,Africa,Developing,3.435,0.136,2400258,7590,0.753,54.725,0.742,-0.215,0.
 Congo (Kinshasa),Africa,Developing,3.207,0.095,89600345,680,0.652,55.375,0.664,0.086,0.834
 Zimbabwe,Africa,Developing,3.204,0.061,14900454,1200,0.69,54.05,0.654,-0.046,0.766
 Sierra Leone,Africa,Developing,3.138,0.082,8100582,490,0.555,54.9,0.66,0.105,0.858
+Central African Rep.,Africa,Developing,2.569,0.044,4829764,936,0.722,53.679,0.868,0.198,0.722
 Lebanon,Asia,Developing,2.392,0.044,6800451,6720,0.53,66.149,0.474,-0.141,0.891
 Afghanistan,Asia,Developing,1.859,0.033,38900656,368,0.341,54.712,0.382,-0.081,0.847
 Andorra,Europe,Developed,0,0.036,77265,5562,0.647,74.25,0.887,-0.019,0.647
@@ -166,7 +167,6 @@ Bhutan,Asia,Developing,0,0.043,771612,10551,0.716,72.08,0.822,0.027,0.716
 Brunei,Asia,Developing,0,0.069,437483,62200,0.658,75.998,0.864,0.024,0.658
 Burundi,Africa,Developing,0,0.038,11890781,731,0.622,61.916,0.869,0.175,0.622
 Cape Verde,Africa,Developing,0,0.04,555988,6045,0.69,73.166,0.741,0.102,0.69
-Central African Rep.,Africa,Developing,0,0.044,4829764,936,0.722,53.679,0.868,0.198,0.722
 Democratic Republic of Congo,Africa,Developing,0,0.034,89561404,1082,0.604,60.971,0.892,0.001,0.604
 Djibouti,Africa,Developing,0,0.044,988002,5481,0.621,67.49,0.874,0.04,0.621
 Dominica,North America,Developed,0,0.042,71991,10288,0.729,71.23,0.803,0.253,0.729
