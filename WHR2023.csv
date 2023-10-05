@@ -1,4 +1,4 @@
-Country,Continent,Status of country,Happiness score,Standard error of ladder score,Population,GDP per capita (USD),Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption
+Country,Continent,Status_of_country,Happiness_score,Standard_error_of_ladder_score,Population,GDP_per_capita,Social_support,Healthy_life_expectancy,Freedom_to_make_life_choices,Generosity,Perceptions_of_corruption
 Finland,Europe,Developed,7.804,0.036,5502365,51750,0.969,71.15,0.961,-0.019,0.182
 Denmark,Europe,Developed,7.586,0.041,5802364,60790,0.954,71.25,0.934,0.134,0.196
 Iceland,Europe,Developed,7.53,0.049,353547,67210,0.983,72.05,0.936,0.211,0.668
